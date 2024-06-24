@@ -1,14 +1,14 @@
 ## I'm Cam! 👋
 
 I'm an artist and jr web developer from Buenos Aires, Argentina👽
-Pronouns: she/they
+- Pronouns: she/they
 
-🔭 I’m currently working on creating projects that aim to make a difference and promote accessibility, especially for neurodivergent individuals.
-🌱 I’m always learning new skills and technologies.
-💻 One of my most enjoyable professional experiences was working on Fleek as a frontend developer.
-👯 I’m looking to collaborate on innovative projects that can positively impact society.
-📫 How to reach me: https://www.linkedin.com/in/camdambrosio/
-⚡ Fun fact: In my free time, I enjoy making music and creating illustrations. 
+- 🔭 I’m currently working on creating projects that aim to make a difference and promote accessibility, especially for neurodivergent individuals.
+- 🌱 I’m always learning new skills and technologies.
+- 💻 One of my most enjoyable professional experiences was working on Fleek as a frontend developer.
+- 👯 I’m looking to collaborate on innovative projects that can positively impact society.
+- 📫 How to reach me: https://www.linkedin.com/in/camdambrosio/
+- ⚡ Fun fact: In my free time, I enjoy making music and creating illustrations. 
 <!--
 **camdd/camdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
